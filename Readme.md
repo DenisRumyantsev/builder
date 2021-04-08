@@ -4,11 +4,11 @@ Create `server.env` file in server directory with the next variables in it: `POR
 
 `PORT` is a port of Node.js application server
 
-`API` is an url like 'https://api.appcenter.ms/v0.1/apps/<USER_NAME>/<APP_TITLE>'
+`API` is an url like `https://api.appcenter.ms/v0.1/apps/<USER_NAME>/<APP_TITLE>`
 
 My example: `API = 'https://api.appcenter.ms/v0.1/apps/Denis_Rumyantsev/FirstApp'`
 
-`URL` is an url like 'https://appcenter.ms/users/<USER_NAME>/apps/<APP_TITLE>'
+`URL` is an url like `https://appcenter.ms/users/<USER_NAME>/apps/<APP_TITLE>`
 
 My example: `URL = 'https://appcenter.ms/users/Denis_Rumyantsev/apps/FirstApp'`
 
